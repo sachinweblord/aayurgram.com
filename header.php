@@ -106,9 +106,9 @@
                                     </ul>
                                 </li>
 								 <li class="header__menu--items"><a class="header__menu--link" href="doctor.php">Doctors</a></li>
-                                <li class="header__menu--items">
+                                <!-- <li class="header__menu--items">
                                     <a class="header__menu--link" href="day-at-mahrshi-ashram-ayurgram.php">Day </a>  
-                                </li>
+                                </li> -->
 								<li class="header__menu--items">
                                     <a class="header__menu--link " href="#.">Gallery <span class="menu__plus--icon">+</span></a>
                                     <ul class="header__sub--menu">
